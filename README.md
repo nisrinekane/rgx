@@ -1,0 +1,1 @@
+# regx-whtspce-trim
