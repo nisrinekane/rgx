@@ -1,1 +1,1 @@
-JS programs using Regex
+JS algos using Regex
